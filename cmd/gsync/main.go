@@ -6,7 +6,7 @@ package main
 
 import (
 	"fmt"
-	"gsync"
+	"github.com/dr2chase/gsync"
 	"io/fs"
 	"os"
 	"strconv"
